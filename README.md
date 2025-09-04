@@ -18,7 +18,7 @@ The ViGEmBus driver allows emulation of Xbox and PlayStation controllers. It is 
 ### 2. Clone this Repository
 
 ```sh
-git clone https://github.com/pedrossntos/aim-assist.git
+git clone https://github.com/pedrossntos/fps-aim-assist.git
 cd aim-assist
 ```
 
